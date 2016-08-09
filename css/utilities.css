@@ -37,6 +37,10 @@ strong {
 .pr-5{
 	padding-right: 5%;
 }
+
+.pr-1{
+	padding-right: 1%;
+}
 .mg-0{
 	margin: 0;
 }
@@ -94,4 +98,5 @@ strong {
 .pull-right {
 	float: right;
 }
+
 
