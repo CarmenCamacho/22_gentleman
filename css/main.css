@@ -1,0 +1,50 @@
+.fondo1{
+	background-color: grey;
+	box-shadow: (10px 10px 10px 10px #ffffff)
+	width:100%;
+	height: 100%;
+}
+
+.fondogral{
+	background-color: lightgrey;
+}
+
+.bgblanco{
+	background-color: white;
+}
+span{
+	font-weight: lighter;
+}
+
+nav>a{
+	text-decoration: none;
+	padding: 3%;
+	align-self: right;
+}
+
+.pink{
+	color:pink;
+}
+
+li>a{
+	text-decoration: none;
+	color: grey;
+}
+
+
+ul>li{
+	display: inline-block;
+	padding-right: 2%;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.small{
+	color: white;
+	background-color: pink;
+	border-radius: 5px;
+	padding:1% 4%;
+	display: inline-block;
+}
