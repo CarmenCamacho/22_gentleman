@@ -34,6 +34,9 @@ strong {
 .pl-5{
 	padding-left: 5%;
 }
+.pl-2{
+	padding-left: 
+}
 .pr-5{
 	padding-right: 5%;
 }
@@ -71,8 +74,15 @@ strong {
 	color: #888;
 }
 
+.text-lgray{
+	color: lightgrey;
+} 
 .text-green{
  	color: #0dc0c0;
+}
+.text-small{
+font-size: 1em;
+font-family: 'Open sans', sans-serif;
 }
 
 .active {
